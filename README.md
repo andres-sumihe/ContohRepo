@@ -7,4 +7,4 @@
 
 #### GITHUB
 
-``` UHUY ```
+``` Aku mau ngerubah isi readme disini, cerita tentang kisah SD ```
